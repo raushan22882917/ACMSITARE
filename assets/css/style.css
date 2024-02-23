@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9999;
   overflow: hidden;
   background: #191919;
-  background-image: url("/assets/img/back.jpg");
+  background-image: url("./assets/img/back.jpg");
   background: no-repeat;
 }
 
@@ -929,7 +929,7 @@ section {
 # Portfolio
 --------------------------------------------------------------*/
 .portfolio{
-  background-image: url("/assets/img/background.png");
+  background-image: url("./assets/img/background.png");
 }
 .portfolio #portfolio-flters {
   list-style: none;
