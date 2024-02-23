@@ -135,7 +135,7 @@ body {
     margin-left: 5%;
     margin-right: 5%;
     height: 700px;
-    background-image: url("./assets/img/galary_back.jpg");
+    background-image: url("assets/img/galary_back.jpg");
 }
 
 .displayedImage{
@@ -346,7 +346,7 @@ iframe {
 .infoemation{
     border: 5px double red;
     color: white;
-    background-image: url("./assets/img/image_back.jpg");
+    background-image: url("assets/img/image_back.jpg");
     object-fit: cover;
     background-size: cover;
     border-radius: 50%;
